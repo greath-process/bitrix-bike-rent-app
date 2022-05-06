@@ -1,0 +1,1 @@
+&copy; BikePark, <?=date('Y')?>

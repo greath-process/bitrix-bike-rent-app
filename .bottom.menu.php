@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Terms of use", 
+		"/terms/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Reviews", 
+		"/about/#reviews", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Contacts", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Feedback", 
+		"#popup-callback", 
+		Array(), 
+		Array("ATTR"=>"name=\"modal\""), 
+		"" 
+	)
+);
+?>

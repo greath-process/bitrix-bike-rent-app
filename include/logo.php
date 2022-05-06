@@ -1,0 +1,1 @@
+<a class="b-logo" href="/"><img class="b-logo__img" src="<?=SITE_TEMPLATE_PATH?>/img/logo.svg" alt="logo"/></a>

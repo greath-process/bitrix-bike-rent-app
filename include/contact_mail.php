@@ -1,0 +1,1 @@
+<a href="mailto:rent@bikepark.ae" class="b-link b-link_mail">rent@bikepark.ae</a>

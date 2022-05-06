@@ -1,0 +1,25 @@
+/* where to ride */
+.ride-page__inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.ride-page__wrapper {
+    height: min-content;
+    margin: 0 20px;
+}
+
+.gallery {
+    display: grid;
+    gap: 30px;
+    grid-template-rows: 250px;
+    grid-auto-flow: column;
+}
+
+.gallery__item img {
+    max-height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

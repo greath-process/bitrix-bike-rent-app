@@ -1,0 +1,1 @@
+<a class="socials__link" href="#"><img class="socials__img" src="<?=SITE_TEMPLATE_PATH?>/img/facebook.svg" alt="facebook"></a>

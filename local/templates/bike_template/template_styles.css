@@ -1,0 +1,15 @@
+.fbike-img {
+  max-height: 137px;
+}
+.fbike-item__img {
+  text-align: center;
+  background: white;
+  border-radius: 15px;
+  padding-top: 15px;
+}
+
+.rbike-item__img {
+  background: white;
+  padding: 25px;
+  border: 1px solid #f2f4f7;
+}

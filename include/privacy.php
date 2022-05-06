@@ -1,0 +1,1 @@
+<a class="footer-bottom__privacy f-link" href="/privacy.php">Privacy Policy</a>

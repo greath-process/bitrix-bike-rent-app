@@ -1,0 +1,1 @@
+<img src="/local/templates/bike_template/img/demo_col6.jpg" class="radius">

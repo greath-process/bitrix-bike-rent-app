@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"About us", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Rent", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Delivery", 
+		"/terms/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Where to ride", 
+		"/where_to_ride/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Contacts", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
